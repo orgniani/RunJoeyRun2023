@@ -1,0 +1,16 @@
+D:\Pictures\image campus\Trayecto Programacion\RUN JOEY RUN\Debug\net6.0\PROYECTO_FINAL.exe
+D:\Pictures\image campus\Trayecto Programacion\RUN JOEY RUN\Debug\net6.0\PROYECTO_FINAL.deps.json
+D:\Pictures\image campus\Trayecto Programacion\RUN JOEY RUN\Debug\net6.0\PROYECTO_FINAL.runtimeconfig.json
+D:\Pictures\image campus\Trayecto Programacion\RUN JOEY RUN\Debug\net6.0\PROYECTO_FINAL.dll
+D:\Pictures\image campus\Trayecto Programacion\RUN JOEY RUN\Debug\net6.0\PROYECTO_FINAL.pdb
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.csproj.AssemblyReference.cache
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.AssemblyInfoInputs.cache
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.AssemblyInfo.cs
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.csproj.CoreCompileInputs.cache
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.csproj.CopyComplete
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.dll
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\refint\PROYECTO_FINAL.dll
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.pdb
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\PROYECTO_FINAL.genruntimeconfig.cache
+D:\Pictures\image campus\Trayecto Programacion\visual studios project\SFML\PROYECTO_FINAL\PROYECTO_FINAL\obj\Debug\net6.0\ref\PROYECTO_FINAL.dll
